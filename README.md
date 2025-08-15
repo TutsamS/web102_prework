@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/f64d05e6-4bf0-4d8b-80c6-4e113f78ff78
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF wasn't working, so I put an mp4 instead. (Recorded using Loom)  
+
+Link to gif created using imgur: https://imgur.com/a/qQ3OjCf
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

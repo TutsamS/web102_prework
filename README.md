@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/qQ3OjCf' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
+
+https://github.com/user-attachments/assets/f64d05e6-4bf0-4d8b-80c6-4e113f78ff78
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with imgur & Loom.  
+GIF wasn't working, so I put an mp4 instead. (Recorded using Loom)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
